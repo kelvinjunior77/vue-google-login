@@ -21,7 +21,6 @@ const { user } = useAuth();
   max-width: 500px;
   margin: 80px auto;
   padding: 20px;
-  background: #f9fafb;
   border-radius: 24px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.1);
 }
